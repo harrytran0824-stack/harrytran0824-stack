@@ -14,7 +14,7 @@ AI-native products for the work I know best: tax operations. My design rule —
 | **CertIQ** | AI exemption-certificate review: per-field confidence scores, human-in-the-loop approve/reject queue, audit trail | [Live demo](https://certiq-fawn.vercel.app) |
 | **NoticeFlow** | Tax notice triage: classification, urgency routing, AI-drafted responses with explicit human approval | repo coming soon |
 | **NexusPilot** | Economic nexus screening: deterministic threshold engine + AI explanation layer with professional escalation | repo coming soon |
-| **Indirect Tax SQL Analytics** | Multi-state US sales & use tax compliance database: tax determination, exemption-certificate validation, economic-nexus tracking, and return reconciliation across 20+ analytical SQL queries (CTEs, window functions) | [View repo](https://github.com/harrytran0824-stack/indirect-tax-sql-analytics) |
+| **Indirect Tax SQL Analytics** | Multi-state US sales & use tax compliance database: tax determination, exemption-certificate validation, economic-nexus tracking, and return reconciliation across 20+ analytical SQL queries (CTEs, window functions) | [Live demo](https://harrytran0824-stack.github.io/indirect-tax-sql-analytics/) |
 
 All three run in mock mode out of the box (no API key needed) and switch to live
 Claude extraction with one environment variable.
