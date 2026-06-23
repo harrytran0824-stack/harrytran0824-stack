@@ -6,7 +6,7 @@ with enterprise tax systems and data.
 
 ## What I build
 
-AI-native products for the work I know best: tax operations. My design rule —
+AI-native products for the work I know best: tax operations. My design rule -
 **the model extracts, the rules decide, the human reviews.**
 
 | Project | What it does | Try it |
@@ -22,7 +22,7 @@ Claude extraction with one environment variable.
 ## Toolbox
 
 `TypeScript` `Next.js` `React` `Claude API` `Python` `SQL` `Alteryx` `Power BI`
-`Power Automate` `Azure AI` — plus the tax-domain stack: CCH Axcess, GoSystems, Checkpoint.
+`Power Automate` `Azure AI` - plus the tax-domain stack: CCH Axcess, GoSystems, Checkpoint.
 
 ## Background
 
