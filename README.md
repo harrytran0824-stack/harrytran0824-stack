@@ -1,6 +1,6 @@
 # Hi, I'm Harry Tran 👋
 
-**Senior tax technology professional going deep on AI** — I build tools that put
+**Senior tax technology professional going deep on AI** - I build tools that put
 intelligent automation inside real tax workflows, shaped by years of hands-on work
 with enterprise tax systems and data.
 
